@@ -1,0 +1,90 @@
+; Symbolic names for geographic locations, used by vtspot
+;
+; Place in your working directory or in your home directory, and add your
+; own entries.
+
+; Format is like that of a 'hosts' file: a latitude,longitude followed by
+; a space separated list of aliases
+
+; Names are case insensitive and must not contain spaces
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Well known VLF transmitter sites.
+; Information obtained from http://sidstation.loudet.org/stations-list-en.xhtml
+
++66.974353,+13.873617     Novik JXN
++54.911643,-3.278456      Anthorn GBZ
++40.923127,+9.731011      Tavolara ICV
++48.544632,+2.579429      Sainte-Assise FTA
++21.420166,-158.151140    Hawaii NPM
++46.713129,+1.245248      Rosnay HWU
++54.731799,-2.883033      Skelton GQD
++53.078900,+7.615000      Rhauderfehn DHO
++44.644936,-67.281639     Cutler NAA
++46.365990,-98.335638     La_Moure NML
++37.412725,+27.323342     Bafa TBB
++63.850365,-22.466773     Grindavik NRK
++18.398762,-67.177599     Aguada NAU
++37.125660,+14.436416     Niscemi NSY
++38.14504,+24.01973       Marathon SXA
++57.62475,-1.887617       Crimond GYW
++54.911195,-3.279302      Anthorn MSF
++43.386798,+2.097388      La_Regine FUG
++48.637672,-4.350725      Kerlouan FUE
++34.948585,+109.542967    Lintong BPC
++46.406211,+6.251267      Prangins HBG
++50.015411,+9.008307      Mainflingen DCF
++53.82762,-2.83664        Inskip GYN
+-21.816328,+114.165585    Harold_Holt NWC
++57.105556,+12.390278     Varberg Grimeton SAQ
++48.203633,-121.916828    Jim_Creek NLK
++08.387015,+77.752762     Vijayanarayanam VTX3
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Receivers known at abelian.org/vlf
+
+53.703N,2.072W        vlf1  Todmorden
+53.4396N,1.5004W      vlf3  Sheffield
+52.146N,8.458E        vlf6  Bielefeld Spenge
+26.5556N,82.0252W     vlf9  Cape_Coral
+44.96N,7.42E          vlf15 Cumiana
+27.516N,81.517W       vlf19 Sebring
+32.6578N,99.8437W     vlf25 Hawley
+39.88889N,74.90556W   vlf26 Marlton
+45:49N,15:59E         vlf28 Zagreb
+33.6213N,78.9649W     vlf34 Surfside_Beach
+37.34385N,79.28818W   vlf35 Lynchburg Forest
+41.31468N,88.1206W    vlf37 Wilmington
+52.16313N,21.03094E   vlf38 Warsaw
+36.804163S,144.67559E vlf39 Heathcote
+49.443N,8.695E        vlf41 Heidelberg
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; RSDN-20 Alpha stations
+
+55:45:22.0N,84:26:52.4E   Novosibirsk 
+45:24:17.9N,38:09:29.0E   Krasnodar
+50:04:23.9N,136:36:24.1E  Khabarovsk
+68:02:07.8N,34:41:00.0E   Revda
+39:28:16.0N,62:43:07.3E   Seyda
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Amateur radio stations transmitting at VLF
+
+49.396,11.125          DF6NM Nuernberg
+49.417708,8.674306     DK7FC Heidelberg
+53.8958,9.54167        DJ8WX Munsterdorf 
+35.2730,-80.3706       W4DEX Stanfield
+41.73134,-70.45397     W1LE  Cap_Cod
+48.773,16.796          OK2BVG
+40.8563455,17.1293576  IZ7SLZ Putignano
+47.5208333,-52.9583333 VO1NA Torbay
+49.6063455,11.1293576  DL3NDR Neunkirchen
+44.9396788,12.1293576  IW4DXW Ariano 
+55.5646788,36.462691   RN3AUS
+49.444444,11.848333    DL0AO Amberg
+41:45:29N,73:00:04W    W1VD
+42.0230122,-88.3706424 K3SIW Elgin
+49.4458,11.8734        DK1IS
+39:29:37N,112:56:14W   K7PO Tonopah
+ 
